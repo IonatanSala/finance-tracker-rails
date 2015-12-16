@@ -1,0 +1,15 @@
+## Finance-tracker app
+
+- This app is built so that crucial concepts are learned
+
+- user authentication using devise
+
+- users can track stocks, up to 10 per each user. The profile page will display all the current stock prices
+
+- users can search for stock symbols using a search bar
+
+- users can choose to add a stock from results of search to their portfolio
+
+- users can look for friends, or other users of the app, by name (first or last), or email
+
+- users can view portfolio of stocks their friends are tracking for investing ideas
