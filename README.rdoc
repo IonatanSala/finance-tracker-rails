@@ -1,4 +1,4 @@
-## Finance-tracker app
+== Finance-tracker app
 
 - This app is built so that crucial concepts are learned
 
